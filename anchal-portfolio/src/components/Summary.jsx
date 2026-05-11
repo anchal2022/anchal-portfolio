@@ -2,7 +2,7 @@ function Summary() {
   const highlights = [
     "20+ Projects Built",
     "5+ Analytics Dashboards",
-    "5 Hackathons",
+    "5+ Hackathons",
     "2 International Conference Presentations",
     "1 Published Research Paper",
     "NPTEL Certified",
