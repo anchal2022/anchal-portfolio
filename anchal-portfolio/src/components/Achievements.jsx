@@ -3,7 +3,7 @@ function Achievements() {
     {
       title: "BMSCE Ideathon — 2nd Prize",
       description:
-        "Secured 2nd Prize in the Ideathon organized at BMS College of Engineering by presenting an innovative solution idea.",
+        "Secured 2nd Prize in the Ideathon organized at BMS College of Engineering, Bengaluru  by presenting an innovative solution idea.",
     },
     {
       title: "Ctrl + Alt + Compete Hackathon",
