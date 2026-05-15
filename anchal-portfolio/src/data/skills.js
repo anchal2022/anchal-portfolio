@@ -34,7 +34,7 @@ export const skills = [
     ],
   },
   {
-    title: "Data Science",
+    title: "Data Science & Research",
     items: [
       "Statistics",
       "Probability",
@@ -48,7 +48,7 @@ export const skills = [
       "Time Series Analysis",
       "Forecasting",
       "Clustering",
-      "LaTeX",  // Added for research and reporting
+      "LaTeX",
     ],
   },
   {
