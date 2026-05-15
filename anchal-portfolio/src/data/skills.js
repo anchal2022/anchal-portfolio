@@ -48,6 +48,7 @@ export const skills = [
       "Time Series Analysis",
       "Forecasting",
       "Clustering",
+      "LaTeX",  // Added for research and reporting
     ],
   },
   {
@@ -66,6 +67,8 @@ export const skills = [
       "Recall",
       "F1-Score",
       "ROC-AUC",
+      "PyTorch",
+      "TensorFlow",
     ],
   },
   {
@@ -78,10 +81,8 @@ export const skills = [
       "OpenCV",
       "CNN",
       "Deep Learning",
-      "TensorFlow",
-      "PyTorch",
-      "Hugging Face Transformers",
       "Generative AI",
+      "Hugging Face Transformers",
       "Agentic AI Basics",
     ],
   },
