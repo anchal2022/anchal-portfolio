@@ -2,12 +2,12 @@ function Conferences() {
   const conferences = [
     {
       title: "AI Surface Defect Detection",
-      event: "Presented at ANQ Conference",
+      event: "Presented at ANQ 2025 Conference",
       category: "Computer Vision + Quality Analytics",
     },
     {
       title: "Fuel Cost Minimization in Multi-Delivery System",
-      event: "Presented at ICB-AI Conference",
+      event: "Presented at ICB-AI 2025 Conference",
       category: "Optimization + Analytics",
     },
   ];
