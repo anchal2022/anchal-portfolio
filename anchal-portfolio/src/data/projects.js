@@ -6,7 +6,7 @@ export const featuredProjects = [
       "A multi-agent AI system for demand forecasting, supplier risk prediction, inventory optimization, logistics delay analysis, and coordinated disruption management.",
     tech: ["Python", "Machine Learning", "Pandas", "Scikit-learn", "Streamlit"],
     github: "#",
-    demo: "#",
+   
     caseStudy: {
       problem: "Supply chain disruptions increase cost and delay.",
       solution: "Multi-agent AI predicts and mitigates delays.",
@@ -20,7 +20,7 @@ export const featuredProjects = [
       "A smart EV charging management system that simulates EV arrivals, charger allocation, waiting time, power demand, and station-level performance.",
     tech: ["Python", "Streamlit", "Optimization", "Data Visualization"],
     github: "#",
-    demo: "#",
+    
   },
   {
     title: "Radar Digital Twin System",
@@ -29,7 +29,7 @@ export const featuredProjects = [
       "A radar digital twin prototype for real-time target monitoring, radar visualization, alerts, analytics, and configurable simulation controls.",
     tech: ["React", "Vite", "Analytics", "Simulation", "Dashboard"],
     github: "#",
-    demo: "#",
+    
   },
   {
     title: "AI Surface Defect Detection Using Computer Vision",
@@ -38,7 +38,7 @@ export const featuredProjects = [
       "A computer vision based AI system for detecting surface defects using image processing and deep learning techniques.",
     tech: ["Python", "OpenCV", "CNN", "Deep Learning"],
     github: "#",
-    demo: "#",
+    
   },
   {
     title: "End-to-End SaaS Analysis",
@@ -47,7 +47,7 @@ export const featuredProjects = [
       "A complete SaaS analytics project covering user behavior, revenue trends, retention, churn, cohort analysis, and business insights.",
     tech: ["SQL", "Python", "Power BI", "Excel"],
     github: "#",
-    demo: "#",
+    
   },
   {
     title: "End-to-End E-commerce Customer Analysis",
@@ -56,7 +56,7 @@ export const featuredProjects = [
       "An e-commerce analytics project analyzing customer behavior, reorder patterns, product performance, retention, and basket trends.",
     tech: ["SQL", "Power BI", "Excel", "Python"],
     github: "#",
-    demo: "#",
+    
   },
 ];
 
