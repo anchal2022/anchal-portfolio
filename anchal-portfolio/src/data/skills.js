@@ -121,6 +121,7 @@ export const skills = [
     title: "BI, Visualization & Reporting",
     items: [
       "Power BI",
+      "Tableau",
       "Excel Dashboards",
       "Pivot Tables",
       "VLOOKUP",
