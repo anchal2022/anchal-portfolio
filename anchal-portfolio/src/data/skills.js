@@ -139,6 +139,7 @@ export const skills = [
       "Vite",
       "FastAPI",
       "Flask",
+      "Streamlit",
       "Git",
       "GitHub",
       "Vercel",
